@@ -29,7 +29,7 @@ class ViewController: UIViewController {
             print(index)
             
         }
-         for index in 1...20{
+         for index in 1...25{
                    
                    print(index)
                    
