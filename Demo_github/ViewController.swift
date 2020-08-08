@@ -29,6 +29,12 @@ class ViewController: UIViewController {
             print(index)
             
         }
+         for index in 1...20{
+                   
+                   print(index)
+                   
+               }
+        
     }
 
 
