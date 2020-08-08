@@ -15,6 +15,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("asdsadsad")
+        
+        for index in 1...5{
+            
+            print(index)
+            
+        }
     }
 
 
